@@ -73,6 +73,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 - [Carbonifer](https://github.com/carboniferio/carbonifer) - A command line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open-source cloud energy and carbon emissions measurement tool spanning AWS, Azure, and GCP. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+- [cloud-carbon-scorecard](https://github.com/fabiocicerchia/cloud-carbon-scorecard) - An auditable dataset for carbon-aware cloud region selection. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of a software architecture. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [kube-green](https://github.com/kube-green/kube-green) - An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
