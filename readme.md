@@ -110,6 +110,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 - [Kepler](https://github.com/sustainable-computing-io/kepler) - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [PowerJoular](https://github.com/joular/powerjoular) - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [scaphandre](https://github.com/hubblo-org/scaphandre) - Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+- [terraform-helm-scaphandre](https://github.com/fabiocicerchia/terraform-helm-scaphandre) - Terraform module to deploy Scaphandre (container power monitoring) via Helm. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim)) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### General Purpose — Extensions
