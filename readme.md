@@ -100,6 +100,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 - [GreenScheduled](https://github.com/carbonintensityio/green-scheduler) - An Apache-2.0 Java library adding a `@GreenScheduled` annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [PSElectricityMaps](https://github.com/cloudyspells/PSElectricityMaps) - A PowerShell module for retrieving current power grid carbon emissions data with a free Electricity Maps or CO2signal account. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 - [PSWattTime](https://github.com/cloudyspells/PSWattTime) - A PowerShell module for retrieving current power grid carbon emissions data with a free WattTime.org account. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+- [terraform-kubernetes-codecarbon](https://github.com/fabiocicerchia/terraform-kubernetes-codecarbon) - Terraform module deploying CodeCarbon as a DaemonSet to monitor carbon emissions across all nodes. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### General Purpose — Energy
 
